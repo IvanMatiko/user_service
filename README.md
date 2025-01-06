@@ -19,7 +19,10 @@ bash
 bash
 docker-compose up
 
-Technologies
+Technologies:
+
 Java with Gradle
+
 Docker for containerization
+
 Spring Framework
